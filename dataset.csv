@@ -1,0 +1,6 @@
+ID,Emp Name,Salary,Department
+1,Alice,50000.0,HR
+2,Bob,,Engineering
+3,Charlie,60000.0,
+4,David,55000.0,HR
+5,,62000.0,Finance

@@ -1,0 +1,6 @@
+employee_id,employee_name,salary,department
+1,Alice,50000.0,HR
+2,Bob,57500.0,Engineering
+3,Charlie,60000.0,Unknown
+4,David,55000.0,HR
+5,Not Provided,62000.0,Finance
